@@ -1,5 +1,5 @@
-<h1> Commit Contains </h1>
-Basic structure for the apis
+<h1> Commit Contains ()</h1>
+a defined structure or models(user.js) to add data to database(mongodb) in structured manner
 <br>
 packages loaded in root folder -<br>
 npx create-react-app ./<br><br>
